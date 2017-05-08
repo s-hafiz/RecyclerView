@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="add_list">Add List</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="enter_genre">Enter Genre</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="submit">Submit</string>
+</resources>
